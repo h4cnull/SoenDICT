@@ -1,0 +1,9 @@
+{
+    "name":["admin","Admin"],
+    "char":["@","!",".","~"],
+    "num":["123","1234","12345","123456","111","1","000","001","321","666","888"],
+    "year":".\\common\\years_not_existed.txt",
+    "day":".\\common\\days_not_existed.txt",
+    "str":[],
+    "short_num":[1,2,3]
+}
